@@ -5,3 +5,10 @@ D:\Misc. Files\Classes\IGME 470\p2\input_demonstration\input_demonstration\obj\D
 D:\Misc. Files\Classes\IGME 470\p2\input_demonstration\input_demonstration\obj\Debug\input_demonstration.csproj.CoreCompileInputs.cache
 D:\Misc. Files\Classes\IGME 470\p2\input_demonstration\input_demonstration\obj\Debug\input_demonstration.exe
 D:\Misc. Files\Classes\IGME 470\p2\input_demonstration\input_demonstration\obj\Debug\input_demonstration.pdb
+D:\Misc. Files\Classes\IGME 470\p2\IGME-470-Project-2\input_demonstration\input_demonstration\bin\Debug\input_demonstration.exe.config
+D:\Misc. Files\Classes\IGME 470\p2\IGME-470-Project-2\input_demonstration\input_demonstration\bin\Debug\input_demonstration.exe
+D:\Misc. Files\Classes\IGME 470\p2\IGME-470-Project-2\input_demonstration\input_demonstration\bin\Debug\input_demonstration.pdb
+D:\Misc. Files\Classes\IGME 470\p2\IGME-470-Project-2\input_demonstration\input_demonstration\obj\Debug\input_demonstration.csproj.AssemblyReference.cache
+D:\Misc. Files\Classes\IGME 470\p2\IGME-470-Project-2\input_demonstration\input_demonstration\obj\Debug\input_demonstration.csproj.CoreCompileInputs.cache
+D:\Misc. Files\Classes\IGME 470\p2\IGME-470-Project-2\input_demonstration\input_demonstration\obj\Debug\input_demonstration.exe
+D:\Misc. Files\Classes\IGME 470\p2\IGME-470-Project-2\input_demonstration\input_demonstration\obj\Debug\input_demonstration.pdb
