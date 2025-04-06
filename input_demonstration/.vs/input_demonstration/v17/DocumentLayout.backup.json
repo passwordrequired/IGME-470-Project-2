@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Misc. Files\\Classes\\IGME 470\\p2\\IGME-470-Project-2\\input_demonstration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0591CBEE-0A1A-4EE3-BAC7-E1032552136F}|input_demonstration\\input_demonstration.csproj|d:\\misc. files\\classes\\igme 470\\p2\\igme-470-project-2\\input_demonstration\\input_demonstration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0591CBEE-0A1A-4EE3-BAC7-E1032552136F}|input_demonstration\\input_demonstration.csproj|solutionrelative:input_demonstration\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Misc. Files\\Classes\\IGME 470\\p2\\IGME-470-Project-2\\input_demonstration\\input_demonstration\\Program.cs",
+              "RelativeDocumentMoniker": "input_demonstration\\Program.cs",
+              "ToolTip": "D:\\Misc. Files\\Classes\\IGME 470\\p2\\IGME-470-Project-2\\input_demonstration\\input_demonstration\\Program.cs",
+              "RelativeToolTip": "input_demonstration\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:20:58.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
