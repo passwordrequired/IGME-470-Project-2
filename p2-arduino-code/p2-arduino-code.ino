@@ -1,4 +1,4 @@
-int lclick = 7; //left click
+int lclick = 4; //left click
 int rclick = 8; //right click
 int xmouse = A1; //mouse x position
 int ymouse = A0; //mouse y position
@@ -10,18 +10,23 @@ void setup() {
 }
 
 void loop() {
+
+  Serial.println("9999");
+  Serial.flush(); //makes sure the start of the cycle is aligned with the vs program
+
   input = digitalRead(lclick);
   Serial.println(input);
-  delay(50); //to keep in sync with the C# program
+  Serial.flush();  //wait until the vs program has received the data
+
   input = digitalRead(rclick);
   Serial.println(input);
-  delay(50); //to keep in sync with the C# program
+  Serial.flush();  //wait until the vs program has received the data
+
   input = analogRead(xmouse);
   Serial.println(input);
-  delay(50); //to keep in sync with the C# program
+  Serial.flush();  //wait until the vs program has received the data
+
   input = analogRead(ymouse);
   Serial.println(input);
-  delay(50); //to keep in sync with the C# program
-
-  delay(200); //adds a break to make values on vs console readable
+  Serial.flush();  //wait until the vs program has received the data
 }
