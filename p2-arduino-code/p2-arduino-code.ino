@@ -14,19 +14,19 @@ void loop() {
   Serial.println("9999");
   Serial.flush(); //makes sure the start of the cycle is aligned with the vs program
 
-  input = digitalRead(lclick);
+  input = digitalRead(lclick); //"left click"
   Serial.println(input);
   Serial.flush();  //wait until the vs program has received the data
 
-  input = digitalRead(rclick);
+  input = digitalRead(rclick); //"right click"
   Serial.println(input);
   Serial.flush();  //wait until the vs program has received the data
 
-  input = analogRead(xmouse);
+  input = analogRead(xmouse); //"mouse x position"
   Serial.println(input);
   Serial.flush();  //wait until the vs program has received the data
 
-  input = analogRead(ymouse);
+  input = analogRead(ymouse); //"mouse y position"
   Serial.println(input);
   Serial.flush();  //wait until the vs program has received the data
 }
